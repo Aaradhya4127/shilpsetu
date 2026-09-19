@@ -33,6 +33,7 @@ The core of ShilpSetu is an automated pipeline that transforms a raw product upl
 
 ##  Getting Started
 
+You can either visit the prototype at https://shilpsetu-zeta.vercel.app/ or run the project locally:
 To run this project locally, you will need Node.js, Python, and a Google Gemini API key.
 
 ### 1. Backend Setup
